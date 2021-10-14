@@ -6,5 +6,5 @@ Ola!Bem vindo ao meu livro de receitas :wave:
 - Pavê
 - Bolo de cenoura :carrot:
 - Bolinho de chuva :cloud_with_rain:
-- Comandos Básicos Git
+
 
